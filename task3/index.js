@@ -3,7 +3,7 @@
 //Question-1
 //Online Food Delivery
 
-
+/*
 function orderReceived(){
     return new Promise((resolve,reject)=>{
        setTimeout(()=>{
@@ -67,11 +67,12 @@ orderReceived()
 .then(res5=>console.log(res5))
 .catch(err=>err)
 
+*/
 
 
 // Question-2
 // Movie Ticket Booking
-
+/*
 console.clear()
 
 function selectingSeats(){
@@ -121,11 +122,13 @@ selectingSeats()
 .then(res4=> console.log(res4))
 .catch(err=>err)
 
+*/
+
 
 //Question -3
 // Car Service Center
 
-
+/*
 console.clear()
 
 function carCheckIn(){
@@ -190,11 +193,11 @@ carCheckIn()
 })
 
 .catch(err=>err)
-
+*/
 
 //Question-4
 //laptop repair
-
+/*
 console.clear()
 function diagnosisIssue(){
     return new Promise((resolve,reject)=>{
@@ -260,6 +263,7 @@ diagnosisIssue()
 })
 .then(res5=>console.log(res5))
 .catch(err=>err)
+*/
 
 //Question-5
 //Online Course Enrollment
